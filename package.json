@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZenHubHQ/react-dnd-scrollzone"
+    "url": "https://github.com/Frameio/react-dnd-scrollzone"
   },
   "bugs": {
-    "url": "https://github.com/ZenHubHQ/react-dnd-scrollzone/issues"
+    "url": "https://github.com/Frameio/react-dnd-scrollzone/issues"
   },
   "keywords": [
     "react",
@@ -68,7 +68,7 @@
   },
   "peerDependencies": {
     "react": "^16.8.6",
-    "react-dnd": "^8.0.3",
+    "react-dnd": "^9.0.3",
     "react-dom": "^16.8.6"
   }
 }
